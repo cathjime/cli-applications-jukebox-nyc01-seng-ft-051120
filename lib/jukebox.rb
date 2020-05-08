@@ -53,10 +53,10 @@ def run (songs)
     end 
     user_input = gets.strip 
   end
-  
   exit_jukebox
-  # binding.pry
 end 
+
+ # binding.pry
 
 
 
